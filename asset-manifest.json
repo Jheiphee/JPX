@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JPX/static/css/main.3d94b3b1.css",
+    "main.js": "/JPX/static/js/main.b31c7ad4.js",
+    "index.html": "/JPX/index.html",
+    "main.3d94b3b1.css.map": "/JPX/static/css/main.3d94b3b1.css.map",
+    "main.b31c7ad4.js.map": "/JPX/static/js/main.b31c7ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d94b3b1.css",
+    "static/js/main.b31c7ad4.js"
+  ]
+}
